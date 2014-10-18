@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.servletapi/1">
+    <module_version install_time="1408978465603" last="true" origin="installer" specification_version="1.36.1">
+        <file crc="3516286118" name="config/Modules/org-netbeans-modules-servletapi.xml"/>
+        <file crc="2291374740" name="modules/ext/servlet-2.2.jar"/>
+        <file crc="2697397185" name="modules/locale/org-netbeans-modules-servletapi_ja.jar"/>
+        <file crc="305578692" name="modules/locale/org-netbeans-modules-servletapi_pt_BR.jar"/>
+        <file crc="1605831510" name="modules/locale/org-netbeans-modules-servletapi_ru.jar"/>
+        <file crc="1705164830" name="modules/locale/org-netbeans-modules-servletapi_zh_CN.jar"/>
+        <file crc="4062421782" name="modules/org-netbeans-modules-servletapi.jar"/>
+    </module_version>
+</module>

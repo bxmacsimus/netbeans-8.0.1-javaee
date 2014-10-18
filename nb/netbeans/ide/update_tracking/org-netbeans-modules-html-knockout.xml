@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.knockout">
+    <module_version install_time="1408982181462" last="true" origin="installer" specification_version="1.6.1">
+        <file crc="2460442410" name="config/Modules/org-netbeans-modules-html-knockout.xml"/>
+        <file crc="3398165792" name="modules/locale/org-netbeans-modules-html-knockout_ja.jar"/>
+        <file crc="1772329180" name="modules/locale/org-netbeans-modules-html-knockout_pt_BR.jar"/>
+        <file crc="656730665" name="modules/locale/org-netbeans-modules-html-knockout_ru.jar"/>
+        <file crc="2698042823" name="modules/locale/org-netbeans-modules-html-knockout_zh_CN.jar"/>
+        <file crc="4035811762" name="modules/org-netbeans-modules-html-knockout.jar"/>
+    </module_version>
+</module>

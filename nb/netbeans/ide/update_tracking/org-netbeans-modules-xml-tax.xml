@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.tax/2">
+    <module_version install_time="1408981037026" last="true" origin="installer" specification_version="1.39.1.281">
+        <file crc="3137623504" name="config/Modules/org-netbeans-modules-xml-tax.xml"/>
+        <file crc="955265588" name="modules/ext/locale/org-netbeans-tax_ja.jar"/>
+        <file crc="2132666980" name="modules/ext/locale/org-netbeans-tax_pt_BR.jar"/>
+        <file crc="2680936986" name="modules/ext/locale/org-netbeans-tax_ru.jar"/>
+        <file crc="1780087237" name="modules/ext/locale/org-netbeans-tax_zh_CN.jar"/>
+        <file crc="3404387998" name="modules/ext/org-netbeans-tax.jar"/>
+        <file crc="346041125" name="modules/locale/org-netbeans-modules-xml-tax_ja.jar"/>
+        <file crc="1920785475" name="modules/locale/org-netbeans-modules-xml-tax_pt_BR.jar"/>
+        <file crc="4288074362" name="modules/locale/org-netbeans-modules-xml-tax_ru.jar"/>
+        <file crc="1205945218" name="modules/locale/org-netbeans-modules-xml-tax_zh_CN.jar"/>
+        <file crc="2473220732" name="modules/org-netbeans-modules-xml-tax.jar"/>
+    </module_version>
+</module>

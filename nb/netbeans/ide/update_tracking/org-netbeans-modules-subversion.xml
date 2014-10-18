@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.subversion">
+    <module_version install_time="1408983529604" last="true" origin="installer" specification_version="1.37.1.42.1">
+        <file crc="1100323445" name="config/Modules/org-netbeans-modules-subversion.xml"/>
+        <file crc="2958492400" name="modules/locale/org-netbeans-modules-subversion_ja.jar"/>
+        <file crc="2047394903" name="modules/locale/org-netbeans-modules-subversion_pt_BR.jar"/>
+        <file crc="4141637570" name="modules/locale/org-netbeans-modules-subversion_ru.jar"/>
+        <file crc="3929323433" name="modules/locale/org-netbeans-modules-subversion_zh_CN.jar"/>
+        <file crc="3023433216" name="modules/org-netbeans-modules-subversion.jar"/>
+    </module_version>
+</module>
