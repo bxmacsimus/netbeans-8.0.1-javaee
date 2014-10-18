@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.api/1">
+    <module_version install_time="1408979088410" last="true" origin="installer" specification_version="1.19.1">
+        <file crc="1353380400" name="config/Modules/org-netbeans-modules-profiler-api.xml"/>
+        <file crc="3225347002" name="modules/locale/org-netbeans-modules-profiler-api_ja.jar"/>
+        <file crc="2422407316" name="modules/locale/org-netbeans-modules-profiler-api_pt_BR.jar"/>
+        <file crc="1040122167" name="modules/locale/org-netbeans-modules-profiler-api_ru.jar"/>
+        <file crc="3692879137" name="modules/locale/org-netbeans-modules-profiler-api_zh_CN.jar"/>
+        <file crc="3398035821" name="modules/org-netbeans-modules-profiler-api.jar"/>
+    </module_version>
+</module>
