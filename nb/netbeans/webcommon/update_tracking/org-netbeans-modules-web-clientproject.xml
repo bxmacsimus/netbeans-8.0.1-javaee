@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.clientproject">
-    <module_version install_time="1408983021100" last="true" origin="installer" specification_version="1.57.1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.web.clientproject">
+    <module_version install_time="1408983021100" last="false" origin="installer" specification_version="1.57.1">
         <file crc="735898173" name="config/Modules/org-netbeans-modules-web-clientproject.xml"/>
         <file crc="636125854" name="modules/locale/org-netbeans-modules-web-clientproject_ja.jar"/>
         <file crc="2191104895" name="modules/locale/org-netbeans-modules-web-clientproject_pt_BR.jar"/>
         <file crc="2336173494" name="modules/locale/org-netbeans-modules-web-clientproject_ru.jar"/>
         <file crc="3018263151" name="modules/locale/org-netbeans-modules-web-clientproject_zh_CN.jar"/>
         <file crc="2846156249" name="modules/org-netbeans-modules-web-clientproject.jar"/>
+    </module_version>
+    <module_version install_time="1413636051383" last="true" origin="NetBeans Distribution" specification_version="1.57.2">
+        <file crc="735898173" name="config/Modules/org-netbeans-modules-web-clientproject.xml"/>
+        <file crc="1848385229" name="modules/locale/org-netbeans-modules-web-clientproject_ja.jar"/>
+        <file crc="1662835457" name="modules/locale/org-netbeans-modules-web-clientproject_pt_BR.jar"/>
+        <file crc="2615233329" name="modules/locale/org-netbeans-modules-web-clientproject_ru.jar"/>
+        <file crc="3890353300" name="modules/locale/org-netbeans-modules-web-clientproject_zh_CN.jar"/>
+        <file crc="671677238" name="modules/org-netbeans-modules-web-clientproject.jar"/>
     </module_version>
 </module>
