@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.plist">
+    <module_version install_time="1408977901208" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="1402663302" name="config/Modules/org-netbeans-libs-plist.xml"/>
+        <file crc="922046756" name="modules/ext/dd-plist.jar"/>
+        <file crc="2868705437" name="modules/locale/org-netbeans-libs-plist_ja.jar"/>
+        <file crc="1366739523" name="modules/locale/org-netbeans-libs-plist_pt_BR.jar"/>
+        <file crc="3904538089" name="modules/locale/org-netbeans-libs-plist_ru.jar"/>
+        <file crc="602214520" name="modules/locale/org-netbeans-libs-plist_zh_CN.jar"/>
+        <file crc="1102841513" name="modules/org-netbeans-libs-plist.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.inspect">
+    <module_version install_time="1408982013714" last="true" origin="installer" specification_version="0.23.1">
+        <file crc="3968461711" name="config/Modules/org-netbeans-modules-web-inspect.xml"/>
+        <file crc="2410610308" name="modules/locale/org-netbeans-modules-web-inspect_ja.jar"/>
+        <file crc="2976499810" name="modules/locale/org-netbeans-modules-web-inspect_pt_BR.jar"/>
+        <file crc="1125128630" name="modules/locale/org-netbeans-modules-web-inspect_ru.jar"/>
+        <file crc="3311964918" name="modules/locale/org-netbeans-modules-web-inspect_zh_CN.jar"/>
+        <file crc="693083197" name="modules/org-netbeans-modules-web-inspect.jar"/>
+    </module_version>
+</module>
