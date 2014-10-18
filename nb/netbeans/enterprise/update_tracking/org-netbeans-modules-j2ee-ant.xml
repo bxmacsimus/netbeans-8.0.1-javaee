@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.ant">
+    <module_version install_time="1408981796398" last="true" origin="installer" specification_version="1.33.1.1">
+        <file crc="2810241820" name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_ja.jar"/>
+        <file crc="2519497420" name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_pt_BR.jar"/>
+        <file crc="1964023321" name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_ru.jar"/>
+        <file crc="4284511196" name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_zh_CN.jar"/>
+        <file crc="1482295556" name="ant/nblib/org-netbeans-modules-j2ee-ant.jar"/>
+        <file crc="946169155" name="config/Modules/org-netbeans-modules-j2ee-ant.xml"/>
+        <file crc="3991655342" name="modules/locale/org-netbeans-modules-j2ee-ant_ja.jar"/>
+        <file crc="1652351557" name="modules/locale/org-netbeans-modules-j2ee-ant_pt_BR.jar"/>
+        <file crc="1885399845" name="modules/locale/org-netbeans-modules-j2ee-ant_ru.jar"/>
+        <file crc="3322309781" name="modules/locale/org-netbeans-modules-j2ee-ant_zh_CN.jar"/>
+        <file crc="68922099" name="modules/org-netbeans-modules-j2ee-ant.jar"/>
+    </module_version>
+</module>

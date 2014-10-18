@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jstl/1">
+    <module_version install_time="1408982981264" last="true" origin="installer" specification_version="2.34.1.123">
+        <file crc="1794402280" name="config/Modules/org-netbeans-libs-jstl.xml"/>
+        <file crc="3342498152" name="modules/ext/jstl-api.jar"/>
+        <file crc="3514695127" name="modules/ext/jstl-impl.jar"/>
+        <file crc="3431616517" name="modules/locale/org-netbeans-libs-jstl_ja.jar"/>
+        <file crc="3489687685" name="modules/locale/org-netbeans-libs-jstl_pt_BR.jar"/>
+        <file crc="1225550546" name="modules/locale/org-netbeans-libs-jstl_ru.jar"/>
+        <file crc="2604424364" name="modules/locale/org-netbeans-libs-jstl_zh_CN.jar"/>
+        <file crc="2634911830" name="modules/org-netbeans-libs-jstl.jar"/>
+    </module_version>
+</module>

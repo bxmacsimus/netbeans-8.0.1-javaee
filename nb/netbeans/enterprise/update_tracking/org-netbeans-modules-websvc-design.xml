@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.websvc.design">
+    <module_version install_time="1408982653172" last="false" origin="installer" specification_version="1.24.1">
+        <file crc="1660244104" name="config/Modules/org-netbeans-modules-websvc-design.xml"/>
+        <file crc="1832423353" name="modules/locale/org-netbeans-modules-websvc-design_ja.jar"/>
+        <file crc="799388350" name="modules/locale/org-netbeans-modules-websvc-design_pt_BR.jar"/>
+        <file crc="2536100197" name="modules/locale/org-netbeans-modules-websvc-design_ru.jar"/>
+        <file crc="2466277685" name="modules/locale/org-netbeans-modules-websvc-design_zh_CN.jar"/>
+        <file crc="852695828" name="modules/org-netbeans-modules-websvc-design.jar"/>
+    </module_version>
+    <module_version install_time="1413636057580" last="true" origin="NetBeans Distribution" specification_version="1.24.2">
+        <file crc="1660244104" name="config/Modules/org-netbeans-modules-websvc-design.xml"/>
+        <file crc="1281276573" name="modules/locale/org-netbeans-modules-websvc-design_ja.jar"/>
+        <file crc="1052222568" name="modules/locale/org-netbeans-modules-websvc-design_pt_BR.jar"/>
+        <file crc="3171131287" name="modules/locale/org-netbeans-modules-websvc-design_ru.jar"/>
+        <file crc="2334764588" name="modules/locale/org-netbeans-modules-websvc-design_zh_CN.jar"/>
+        <file crc="2731899617" name="modules/org-netbeans-modules-websvc-design.jar"/>
+    </module_version>
+</module>
