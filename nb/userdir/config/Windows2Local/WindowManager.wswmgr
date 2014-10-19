@@ -44,8 +44,8 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="16"/>
     <tc-list>
-  <tc-id id="projectTabLogical_tc"/>
   <tc-id id="Welcome"/>
+  <tc-id id="projectTabLogical_tc"/>
   <tc-id id="navigatorTC"/>
   <tc-id id="TaskListTopComponent"/>
   <tc-id id="services"/>
