@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.form.j2ee/0">
+    <module_version install_time="1408982694479" last="true" origin="installer" specification_version="0.29.1.1.4.1">
+        <file crc="1285940927" name="config/Modules/org-netbeans-modules-form-j2ee.xml"/>
+        <file crc="4214314901" name="modules/locale/org-netbeans-modules-form-j2ee_ja.jar"/>
+        <file crc="568703405" name="modules/locale/org-netbeans-modules-form-j2ee_pt_BR.jar"/>
+        <file crc="1868340123" name="modules/locale/org-netbeans-modules-form-j2ee_ru.jar"/>
+        <file crc="771957604" name="modules/locale/org-netbeans-modules-form-j2ee_zh_CN.jar"/>
+        <file crc="506637385" name="modules/org-netbeans-modules-form-j2ee.jar"/>
+    </module_version>
+</module>

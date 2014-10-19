@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.form.kit">
+    <module_version install_time="1408982810684" last="true" origin="installer" specification_version="1.25.1">
+        <file crc="2376306033" name="config/Modules/org-netbeans-modules-form-kit.xml"/>
+        <file crc="419245993" name="modules/locale/org-netbeans-modules-form-kit_ja.jar"/>
+        <file crc="2178312491" name="modules/locale/org-netbeans-modules-form-kit_pt_BR.jar"/>
+        <file crc="570581502" name="modules/locale/org-netbeans-modules-form-kit_ru.jar"/>
+        <file crc="782481884" name="modules/locale/org-netbeans-modules-form-kit_zh_CN.jar"/>
+        <file crc="2952169499" name="modules/org-netbeans-modules-form-kit.jar"/>
+    </module_version>
+</module>

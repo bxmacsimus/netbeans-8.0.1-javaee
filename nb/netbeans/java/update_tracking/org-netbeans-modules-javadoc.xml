@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javadoc/1">
+    <module_version install_time="1408982233083" last="true" origin="installer" specification_version="1.50.1">
+        <file crc="2725695938" name="config/Modules/org-netbeans-modules-javadoc.xml"/>
+        <file crc="164116750" name="modules/locale/org-netbeans-modules-javadoc_ja.jar"/>
+        <file crc="1174328522" name="modules/locale/org-netbeans-modules-javadoc_pt_BR.jar"/>
+        <file crc="464961133" name="modules/locale/org-netbeans-modules-javadoc_ru.jar"/>
+        <file crc="4036947089" name="modules/locale/org-netbeans-modules-javadoc_zh_CN.jar"/>
+        <file crc="3243761076" name="modules/org-netbeans-modules-javadoc.jar"/>
+    </module_version>
+</module>

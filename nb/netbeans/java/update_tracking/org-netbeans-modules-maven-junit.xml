@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.junit/1">
+    <module_version install_time="1408983204147" last="true" origin="installer" specification_version="1.28.1">
+        <file crc="1632183097" name="config/Modules/org-netbeans-modules-maven-junit.xml"/>
+        <file crc="3706274835" name="modules/locale/org-netbeans-modules-maven-junit_ja.jar"/>
+        <file crc="881832113" name="modules/locale/org-netbeans-modules-maven-junit_pt_BR.jar"/>
+        <file crc="1261855692" name="modules/locale/org-netbeans-modules-maven-junit_ru.jar"/>
+        <file crc="3879585146" name="modules/locale/org-netbeans-modules-maven-junit_zh_CN.jar"/>
+        <file crc="3955347221" name="modules/org-netbeans-modules-maven-junit.jar"/>
+    </module_version>
+</module>

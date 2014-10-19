@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.javacimpl/1">
+    <module_version install_time="1408977805021" last="true" origin="installer" specification_version="0.38.1.25">
+        <file crc="3070546382" name="config/Modules/org-netbeans-libs-javacimpl.xml"/>
+        <file crc="327164884" name="modules/ext/nb-javac-impl.jar"/>
+        <file crc="3024122403" name="modules/locale/org-netbeans-libs-javacimpl_ja.jar"/>
+        <file crc="2138585310" name="modules/locale/org-netbeans-libs-javacimpl_pt_BR.jar"/>
+        <file crc="1028039855" name="modules/locale/org-netbeans-libs-javacimpl_ru.jar"/>
+        <file crc="2585053945" name="modules/locale/org-netbeans-libs-javacimpl_zh_CN.jar"/>
+        <file crc="1330273725" name="modules/org-netbeans-libs-javacimpl.jar"/>
+    </module_version>
+</module>

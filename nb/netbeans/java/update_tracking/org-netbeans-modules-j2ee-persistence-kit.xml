@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.persistence.kit">
+    <module_version install_time="1408982886289" last="true" origin="installer" specification_version="1.29.1">
+        <file crc="1682852127" name="config/Modules/org-netbeans-modules-j2ee-persistence-kit.xml"/>
+        <file crc="1686066744" name="modules/locale/org-netbeans-modules-j2ee-persistence-kit_ja.jar"/>
+        <file crc="135065024" name="modules/locale/org-netbeans-modules-j2ee-persistence-kit_pt_BR.jar"/>
+        <file crc="2681598129" name="modules/locale/org-netbeans-modules-j2ee-persistence-kit_ru.jar"/>
+        <file crc="3614393544" name="modules/locale/org-netbeans-modules-j2ee-persistence-kit_zh_CN.jar"/>
+        <file crc="2304602523" name="modules/org-netbeans-modules-j2ee-persistence-kit.jar"/>
+    </module_version>
+</module>

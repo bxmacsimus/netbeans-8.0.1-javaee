@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.metrics">
+    <module_version install_time="1408982226687" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="4061971602" name="config/Modules/org-netbeans-modules-java-metrics.xml"/>
+        <file crc="1649713916" name="modules/locale/org-netbeans-modules-java-metrics_ja.jar"/>
+        <file crc="2485571609" name="modules/locale/org-netbeans-modules-java-metrics_pt_BR.jar"/>
+        <file crc="3922868562" name="modules/locale/org-netbeans-modules-java-metrics_ru.jar"/>
+        <file crc="2340816161" name="modules/locale/org-netbeans-modules-java-metrics_zh_CN.jar"/>
+        <file crc="3772252470" name="modules/org-netbeans-modules-java-metrics.jar"/>
+    </module_version>
+</module>
