@@ -41,9 +41,10 @@
   <bounds x="578" y="259" width="736" height="475" />
     </editor-area>
     <screen width="1920" height="1080"/>
-    <active-mode name="explorer"/>
+    <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="16"/>
     <tc-list>
+  <tc-id id="Welcome"/>
   <tc-id id="projectTabLogical_tc"/>
   <tc-id id="output"/>
   <tc-id id="navigatorTC"/>
